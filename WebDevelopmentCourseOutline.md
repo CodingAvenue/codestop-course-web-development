@@ -2,12 +2,12 @@
 
 ### Embedding PHP into HTML
 ### Forms & File Handling in PHP
-- $_REQUEST variable
-- $_GET variable
-- $_POST variable
-- Getting form values with $_REQUEST
-- Getting form values with $_GET
-- Getting form values with $_POST
+- `$_REQUEST` variable
+- `$_GET` variable
+- `$_POST` variable
+- Getting form values with `$_REQUEST`
+- Getting form values with `$_GET`
+- Getting form values with `$_POST`
 - Creating Registration forms
   - log-in form
 - Validating form data
